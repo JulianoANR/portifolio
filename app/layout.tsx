@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Giovani Appezzato | Desenvolvedor de Software",
+  title: "Juliano Appezzato | Desenvolvedor de Software",
   description: "Uma breve introdução a minha carreira como desenvolvedor de software.",
 };
 
